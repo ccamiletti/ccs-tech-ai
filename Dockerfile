@@ -1,5 +1,5 @@
 # use an official OpenJDK image from the Docker Hub
-FROM openjdk:17-slim
+FROM openjdk:21
 # set the working directory inside of the container
 WORKDIR /app
 # Copy the built JAR file from the target directory to the working directory in the container
