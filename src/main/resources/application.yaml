@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ccstech-ai-api
+
+app:
+  apikey: AIzaSyAyFPybs8JQTvxX_Cs5t_HDyxe-6D3YtIQ
+  tmdb:
+    base_url: https://api.themoviedb.org/3/discover
+    token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMmIzODRiMzkwZGZlNTBkY2Y5YzYxMmM0MzliOWE2YyIsIm5iZiI6MTYxNDg4ODM5Mi4yODQsInN1YiI6IjYwNDEzZGM4ZDFjYTJhMDAyYWE2Y2RkNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gaIdsaaYba1GeotodAadPOmwQpkBAhvD51N-mV9hC1Q
